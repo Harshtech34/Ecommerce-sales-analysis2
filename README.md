@@ -43,3 +43,14 @@ The goal is to identify revenue patterns, regional performance, and product tren
 - Found top-performing product category
 - Analyzed overall sales performance
 - Provided business recommendations
+# Ecommerce Sales Analysis (Week 4)
+
+This repository contains analyses for an ecommerce dataset (internship task). Notebooks include:
+- `notebooks/` : step-by-step analysis
+- `data/` : sample CSVs (or a data README if data is large)
+- `reports/` : saved charts and summary
+
+## Run locally
+1. `pip install -r requirements.txt`
+2. Open `notebooks/customer_analysis.ipynb` in Jupyter or VS Code
+
